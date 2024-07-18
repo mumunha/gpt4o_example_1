@@ -1,6 +1,6 @@
-# Como usar seu próprio conteúdo em Inteligência Artificial no GPT3.5 - RAG - (PASSO A PASSO)
- 
-[![Assista ao Tutorial](http://img.youtube.com/vi/gMSDl0PvjqI/0.jpg)](https://youtu.be/gMSDl0PvjqI)
+# OpenAI GPT-4o: Exemplos práticos no dia a dia profissional!!
+
+[![Assista ao Tutorial](http://img.youtube.com/vi/Fh0QKkN5dZA/0.jpg)](https://youtu.be/Fh0QKkN5dZA)
 
 Clique na imagem ou no link a seguir para acessar o vídeo:
-[Assistir ao Vídeo](https://youtu.be/gMSDl0PvjqI)
+[Assistir ao Vídeo](https://youtu.be/Fh0QKkN5dZA)
